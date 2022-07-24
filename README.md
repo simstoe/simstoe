@@ -9,7 +9,7 @@
 - ⚡ Fun fact: nothing
 
 ## Overview
-[![sstoegerer's github stats](https://github-readme-stats.vercel.app/api?username=simstoe&theme=tokyonight)](https://github.com/simstoe/github-readme-stats)
+[![simstoe's github stats](https://github-readme-stats.vercel.app/api?username=simstoe&theme=tokyonight)](https://github.com/simstoe/github-readme-stats)
 <br/>
 <br/>
 [![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simstoe&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=simstoe&layout=compact&theme=tokyonight)
