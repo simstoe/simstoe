@@ -2,11 +2,11 @@
 
 ### `println("Welcome to my GitHub-Page! 👋")` 
 
-- 🔭 I’m currently working on `Top Secret`
-- 🌱 I’m currently learning [...]
+- 🔭 I’m currently working on a ModernCalculator
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about Programming in Web and Java Services
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: for C i use CodeBlocks
 
 ## Overview
 [![simstoe's github stats](https://github-readme-stats.vercel.app/api?username=simstoe&theme=tokyonight)](https://github.com/simstoe/github-readme-stats)
