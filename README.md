@@ -31,6 +31,8 @@
 
 <details>
   <summary>My story</summary><br>
+  ### First of all
+  
   It all started when I was 8 years old. 
   I was always an ambitious nerd, as you would say today, always paying attention and knowing quite a lot at my age. 
   In computer science lessons we did topics that always interested me. 
