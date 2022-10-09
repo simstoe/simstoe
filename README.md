@@ -28,7 +28,6 @@
 </p>
 
 ## Do you want to know my story?
-<hr>
 The story is not done yet!
 <details>
   <summary>My story</summary>
