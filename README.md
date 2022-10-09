@@ -35,6 +35,11 @@
   I was always an ambitious nerd, as you would say today, always paying attention and knowing quite a lot at my age. 
   In computer science lessons we did topics that always interested me. 
   A year later I started playing Minecraft. With private friends we played about 4 hours a day on cracked servers because we didn't have an original minecraft :0.
-  I started getting interested in how such a server is created, what you need, etc. At that time, I wrote to a team member on Twerion how the whole thing works, I was   also on the Minesucht TS and went to the team members addiction channel every day and asked if anyone knew. Finally I found someone who explained it all to me pretty   well (At the time I could only create a spigot server :0)
+  I started getting interested in how such a server is created, what you need, etc. At that time, I wrote to a team member on Twerion how the whole thing works, I was   also on the Minesucht TS and went to the team members addiction channel every day and asked if anyone knew. Finally I found someone who explained it all to me pretty   well (At the time I could only create a spigot server :0).
+  A few months later I already had a finished bungee cord network. Back then, the lobby system was the most important.
+  After that, a developer taught me the CloudNET system and we already had a cloud.
+  And then I got interested in plugins.
+  
+  ## How i start to code
 </details>
 
