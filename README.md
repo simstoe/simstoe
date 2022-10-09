@@ -7,6 +7,10 @@
 - 💬 Ask me about Programming in Web and Java Services
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
 - ⚡ Fun fact: for C i use CodeBlocks
+- 💫 life-motto: if (sad() == true) {
+                     sad.stop();
+                     beAwesome();
+                  }
 
 ## Overview
 [![simstoe's github stats](https://github-readme-stats.vercel.app/api?username=simstoe&theme=tokyonight)](https://github.com/simstoe/github-readme-stats)
