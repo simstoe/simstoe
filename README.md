@@ -27,7 +27,8 @@
 <a href="https://www.arduino.cc//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"alt="arduino" width="40" height="40"/> </a>
 </p>
 
-##Do you want to know my story?
+## Do you want to know my story?
+<hr>
 
 <details>
   <summary>My story</summary>
