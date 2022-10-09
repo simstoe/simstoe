@@ -45,6 +45,15 @@
   
   ### How i start to code
   
+  Most of my disco
+  
   As already mentioned, in 2018 I wanted to be able to program Minecraft plugins. I always watched the videos of Bievieh or Lombonz but I was too stupid to remember     that at the time. With my 91309 network I had a developer where we played truth or dare. His duty was to teach me how to code, which he eventually did. He programmed   something via Anydesk and I memorized it. I wrote the program what felt like 100 times and at the time I thought I was so crazy. I always increased my knowledge         through videos, courses, decompilation plugins, open source projects. Now I'm here, professional developer.
+  
+  ### How can I learn code?
+  
+  Most of my Discord messages are how can I learn to code
+  
+  The important thing is programming is constructive. Persistence, patience and learning-friendly is the most important thing. It may sound stupid (I get it, I don't     think it's cool either) but the best thing is a book. Most things are in a book. Believe me: With a book, YT tutorials you will become a developer very quickly.
+  
 </details>
 
