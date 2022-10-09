@@ -31,6 +31,7 @@
 
 <details>
   <summary>My story</summary><br>
+  
   ### First of all
   
   It all started when I was 8 years old. 
