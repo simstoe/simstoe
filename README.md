@@ -44,5 +44,7 @@
   And then I got interested in plugins.
   
   ### How i start to code
+  
+  As already mentioned, in 2018 I wanted to be able to program Minecraft plugins. I always watched the videos of Bievieh or Lombonz but I was too stupid to remember     that at the time. With my 91309 network I had a developer where we played truth or dare. His duty was to teach me how to code, which he eventually did. He programmed   something via Anydesk and I memorized it. I wrote the program what felt like 100 times and at the time I thought I was so crazy. I always increased my knowledge         through videos, courses, decompilation plugins, open source projects. Now I'm here, professional developer.
 </details>
 
