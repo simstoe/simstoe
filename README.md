@@ -29,7 +29,6 @@
 
 ## Do you want to know my story?
 <hr>
-
 <details>
   <summary>My story</summary>
 </details>
