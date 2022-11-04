@@ -2,7 +2,7 @@
 
 ### `                                              System.out.println("Welcome to my GitHub-Page! 👋")` 
 
-- 🔭 I’m currently working on a ModernCalculator
+- 🔭 I’m currently working on my LifeStyle
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about Programming in Web and Java Services
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
