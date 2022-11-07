@@ -2,7 +2,7 @@
 
 ### `                                              System.out.println("Welcome to my GitHub-Page! 👋")` 
 
-- 🔭 I’m currently working on my LifeStyle
+- 🔭 I’m currently working on a [WindowManager](https://github.com/simstoe/WindowManager)
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about Programming in Web and Java Services
 - 📫 How to reach me: [discord](http://de.spongepedia.org/images/MrwasgehtdasanFuehrerschein.jpg)
