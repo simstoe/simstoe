@@ -1,6 +1,6 @@
 
 
-### `                                              System.out.println("Welcome to my GitHub-Page! 👋");` 
+### `System.out.println("Welcome to my GitHub-Page! 👋");` 
 
 - 🔭 I’m currently working on a [WindowManager](https://github.com/simstoe/WindowManager)
 - 🌱 I’m currently learning Angular
