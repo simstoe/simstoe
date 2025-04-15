@@ -11,16 +11,6 @@ I'm a passionate fullstack developer with a love for building things and explori
 #### 🌱 I’m currently learning
 - Machine Learning
 
-#### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simstoe&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-#### 📈 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simstoe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 #### 🤝 Let's Connect
 - E-Mail: stoegerer.simon@gmail.com
 
