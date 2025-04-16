@@ -3,10 +3,12 @@
 I'm a passionate fullstack developer with a love for building things and exploring new technologies. Welcome to my GitHub profile!
 
 #### 🔧 Technologies & Tools
-- Java
+- Java - Maven / Gradle
 - HTML, CSS, JavaScript, TypeScript, Angular
 - Python
 - C++, C+
+- MySQL / PL/SQL
+- Docker
 
 #### 🌱 I’m currently learning
 - Machine Learning
