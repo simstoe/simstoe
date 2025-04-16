@@ -9,6 +9,13 @@ I'm a passionate fullstack developer with a love for building things and explori
 - C++, C+
 - MySQL / PL/SQL
 - Docker
+- Figma
+
+#### 📁 Frameworks
+- Spring
+- TailwindCSS / Bootstrap
+- Spigot / Paper / Bungeecord / Velocity
+- Netty
 
 #### 🌱 I’m currently learning
 - Machine Learning
