@@ -16,6 +16,7 @@ I'm a passionate fullstack developer with a love for building things and explori
 
 
 #### 🚀 Projects
+- [Personal Website] (https://simstoe.github.io)
 - [Java Design Pattern Book](https://simons-organization-15.gitbook.io/design-patterns-java)
   
 #### 🎉 Fun Facts
