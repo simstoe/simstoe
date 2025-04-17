@@ -29,7 +29,7 @@ I'm a passionate fullstack developer with a love for building things and explori
 - [Java Design Pattern Book](https://simons-organization-15.gitbook.io/design-patterns-java)
   
 #### 🎉 Fun Facts
-- I enjoy modifing car engines :0
+- I enjoy modifying car engines :0
 - I'm always open to collaboration on interesting projects.
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 🚀
