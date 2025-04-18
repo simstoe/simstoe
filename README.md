@@ -13,15 +13,18 @@ I'm a passionate fullstack developer with a love for building things and explori
 
 #### 📁 Frameworks
 - Spring
-- TailwindCSS / Bootstrap
+- TailwindCSS / Bootstrap / GSAP
 - Spigot / Paper / Bungeecord / Velocity
 - Netty
+- NodeJS / Express
+- DiscordJDA
 
 #### 🌱 I’m currently learning
 - Machine Learning
 
 #### 🤝 Let's Connect
 - E-Mail: stoegerer.simon@gmail.com
+- Discord: haxzeeee
 
 
 #### 🚀 Projects
