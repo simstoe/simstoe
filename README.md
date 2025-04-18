@@ -9,6 +9,10 @@ I'm a passionate fullstack developer with a love for building creative solutions
 - MySQL, PL/SQL
 - Docker
 - Figma
+- Git / GitHub / GitLab
+- CI/CD (GitHub Actions)
+- Typst (for creating PDF's etc.)
+- REST APIs / Postman
 
 #### 📚 Frameworks & Libraries
 - Spring Boot
@@ -17,6 +21,8 @@ I'm a passionate fullstack developer with a love for building creative solutions
 - Netty
 - Node.js, Express
 - DiscordJDA
+- Hibernate / JPA
+- Lombok
 
 #### 🌱 Currently Learning
 - Diving into the world of Machine Learning
