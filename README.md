@@ -24,6 +24,18 @@ I'm a passionate fullstack developer with a love for building creative solutions
 - Hibernate / JPA
 - Lombok
 
+#### 🛠️ What I Build
+- Scalable fullstack web applications with clean architecture 
+- Custom Minecraft plugins and server-side systems  
+- Internal tools to improve productivity and developer experience  
+- Interactive documentation and learning tools (e.g., GitBook, Typst)
+
+#### 📈 Metrics that Matter
+- 50+ public and private repositories  
+- 2 active projects maintained  
+- 5+ years of programming experience  
+- Dozens of custom tools and systems deployed
+
 #### 🌱 Currently Learning
 - Diving into the world of Machine Learning
 
