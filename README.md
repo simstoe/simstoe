@@ -33,7 +33,7 @@ I'm a passionate fullstack developer with a love for building creative solutions
 #### 🧠 How I Work
 - I follow agile methodologies like Scrum and Kanban depending on the project  
 - I regularly apply best practices such as code reviews, pair programming, and CI/CD pipelines 
-- My workflows include tools like GitHub Projects, **Notion, and Jira to organize tasks and sprints  
+- My workflows include tools like GitHub Projects, Notion, and Jira to organize tasks and sprints  
 - I strive for clean code, design patterns, maintainable architectures, and continuous learning in every step
 
 
