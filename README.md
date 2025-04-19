@@ -30,6 +30,13 @@ I'm a passionate fullstack developer with a love for building creative solutions
 - Internal tools to improve productivity and developer experience  
 - Interactive documentation and learning tools (e.g., GitBook, Typst)
 
+#### 🧠 How I Work
+- I follow agile methodologies like Scrum and Kanban depending on the project  
+- I regularly apply best practices such as code reviews, pair programming, and CI/CD pipelines 
+- My workflows include tools like GitHub Projects, **Notion, and Jira to organize tasks and sprints  
+- I strive for clean code, design patterns, maintainable architectures, and continuous learning in every step
+
+
 #### 📈 Metrics that Matter
 - 50+ public and private repositories  
 - 2 active projects maintained  
