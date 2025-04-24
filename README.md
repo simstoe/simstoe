@@ -1,4 +1,4 @@
-### Hi there, I'm Simon (simstoe)! 👋
+### Hi there, I'm Simon! 👋
 
 I'm a passionate fullstack developer with a love for building creative solutions and diving into new technologies. Welcome to my GitHub profile – take a look around and let’s connect!
 
