@@ -11,7 +11,7 @@ I'm a passionate fullstack developer with a love for building creative solutions
 - Figma
 - Git / GitHub / GitLab
 - CI/CD (GitHub Actions)
-- Typst (for creating PDF's etc.)
+- LaTeX, Typst (for creating PDF's etc.)
 - REST APIs / Postman
 
 #### 📚 Frameworks & Libraries
